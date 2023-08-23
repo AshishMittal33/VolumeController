@@ -21,4 +21,8 @@ To install: Run pip install numpy in your command prompt or terminal.
 Once you've installed all the required libraries, you should be able to run the script successfully. If you encounter any issues during installation or while running the script, make sure you're using the correct package names and versions
 
 <img width="949" alt="image" src="https://github.com/AshishMittal33/extra-/assets/81253539/f733cf06-6e84-4f15-9818-50d2dd72bb4c">
+<img width="916" alt="image" src="https://github.com/AshishMittal33/extra-/assets/81253539/0069e7d0-1ac7-415e-a041-306fae73e388">
+
+press Q to exit or close the program
+
 
